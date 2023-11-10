@@ -1,6 +1,3 @@
-
-
-
 import { fetchPixabay } from './js/pixabay';
 import { showMessage } from './js/notify';
 import { createMarkup } from './js/markup';
